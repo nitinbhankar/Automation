@@ -4,7 +4,7 @@
 URL = "http://13.64.144.136/qa/onboarding"
 name = "Partner 4"
 phone = "8888888888"
-email = "autom4@mailinator.com"
+email = "autom5@mailinator.com"
 company = "Company 4"
 industry = "Aerospace"
 entities = "0"
